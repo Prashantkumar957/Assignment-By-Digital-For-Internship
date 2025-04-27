@@ -15,9 +15,7 @@ A modern Tic-Tac-Toe game built with Flutter featuring animations, sound effects
 - 🎨 Modern UI with smooth animations
 - 📱 Responsive design for all mobile devices
 
-## Demo Video
 
-[Watch the gameplay demo](https://example.com/demo.mp4) <!-- Replace with your actual demo video link -->
 
 ## Installation
 
