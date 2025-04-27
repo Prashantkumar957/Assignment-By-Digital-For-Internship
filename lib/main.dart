@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tic_tac_toe_ai/splash_screen.dart';
-
+import 'splash.dart';
 void main() {
   runApp(const MyApp());
 }
